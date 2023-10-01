@@ -1,0 +1,11 @@
+# Fdb version 4
+["pdflatex"] 1696184863 "c:/Users/User/Desktop/sc/dump/test.tex" "test.pdf" "test" 1696184863 2
+  "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1696184050 24141477 86932d3808afa9c9783a1b1b23fadac1 ""
+  "c:/Users/User/Desktop/sc/dump/test.tex" 1696184863 3897 b3730eba17120e2289a64b4534a2d5a7 ""
+  "test.aux" 1696184862 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1696184863 3897 b3730eba17120e2289a64b4534a2d5a7 ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)
