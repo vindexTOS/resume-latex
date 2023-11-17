@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1696186108 "c:/Users/User/Desktop/sc/resume.tex" "resume.pdf" "resume" 1696186109 2
-  "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1696186062 24141477 b3e6b2dbfb9a33b55e7c06e89b606052 ""
+["pdflatex"] 1700240207 "d:/Dasktop Trash/sc/resume.tex" "resume.pdf" "resume" 1700240208 2
+  "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1697820104 24141478 00e1ec650bc69ba3598cc4abb8cbecdc ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -42,11 +42,11 @@
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/User/Desktop/sc/resume.tex" 1696186103 3735 f6949059f1ba6a5a7c26efef0191bd9f ""
   "config/minimal-resume-config.tex" 1569121350 115 68453bbdfea0f195595eb8f2d6e52649 ""
   "config/minimal-resume.sty" 1569121350 3757 ab21af750b59a5a8fa95af210593624c ""
-  "resume.aux" 1696186088 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1696186103 3735 f6949059f1ba6a5a7c26efef0191bd9f ""
+  "d:/Dasktop Trash/sc/resume.tex" 1700240198 4941 7cb0ee80313a91837d95dbb091431d15 ""
+  "resume.aux" 1700240207 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1700240198 4941 7cb0ee80313a91837d95dbb091431d15 ""
   (generated)
   "resume.aux"
   "resume.log"

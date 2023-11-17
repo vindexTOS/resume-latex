@@ -1,6 +1,6 @@
-PWD c:\Users\User\Desktop\sc
+PWD d:\Dasktop Trash\sc
 INPUT C:\Users\User\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\User\Desktop\sc\resume.tex
+INPUT d:\Dasktop Trash\sc\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\User\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\User\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
